@@ -1,7 +1,7 @@
 ## Apuntes 1era Parcial
 ### Agosto-Septiembre
 
-``` python
+~~~ python
 #Operadores
 print(5+4)
 print(5-4)
@@ -21,9 +21,9 @@ n1: int = 30
 n2: int = 20
 if n1 > n2: 
     print(f"(n1)>(n2)")
-```
 
-```
+
+
 def suma(a, b):
    pass
 print(suma(3,4))
@@ -44,4 +44,4 @@ mi_set = [1,2,3,3,3,3,3]
 
 #Diccionario
 mi_dict = ("llave",  "valor")
-```
+~~~
